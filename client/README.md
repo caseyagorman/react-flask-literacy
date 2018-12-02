@@ -1,3 +1,5 @@
+This project is also a draft of my sight word tracker but does make a call to the server. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
